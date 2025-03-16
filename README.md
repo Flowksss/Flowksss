@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x.com/miguelflokws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/miguelflokws" height="30" width="40" /></a>
+<a href="https://twitter.com/x.com/miguelflokws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https//:x.com/miguelflokws" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/miguel-mombach-foza-21a636262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miguel-mombach-foza-21a636262" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mfz_miguel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mfz_miguel/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@flowksss?si=-0kyn4ehcvz1lu9j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@flowksss?si=-0kyn4ehcvz1lu9j" height="30" width="40" /></a>
