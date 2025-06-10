@@ -4,8 +4,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelFoza&show_icons=true&theme=dark&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFoza&layout=compact&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=dark&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowksss&layout=compact&theme=dark" height="150" />
 </p>
 
 <h1 align="center">Olá meu nome é Miguel (Flowksss)</h1>
