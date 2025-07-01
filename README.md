@@ -1,7 +1,7 @@
 <!--Banner do Flokinho-->
 ![Banner do perfil...](./bannernovo.png)
 
-<h1 align="center">![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=tokyonight) 
+<h1 align="center"![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=tokyonight)>
 
 
 
