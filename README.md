@@ -1,8 +1,8 @@
 <!--Banner do Flokinho-->
 ![Banner do perfil...](./bannernovo.png)
 
-![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=tokyonight) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flowksss&repo=github-readme-stats)](https://github.com/Flowksss/github-readme-stats)
+<h1 align="center">![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=tokyonight) 
+
 
 
 <h1 align="center">Olá meu nome é Miguel (Flowksss)</h1>
