@@ -1,7 +1,7 @@
 <!--Banner do Flokinho-->
 ![Banner do perfil...](./bannernovo.png)
 
-<h1 align="center">Eu me chamoMiguel 👨‍💻</h1>
+<h1 align="center">Eu me chamo Miguel 👨‍💻</h1>
 
 <p align="center">
 Sou um programador iniciante.  
