@@ -2,7 +2,7 @@
 ![Banner do perfil...](./bannernovo.png)
 
 ![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowksss&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flowksss&repo=github-readme-stats)](https://github.com/flowksss/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelfoza&repo=github-readme-stats)](https://github.com/miguelfoza/github-readme-stats)
 
 <h1 align="center">Olá meu nome é Miguel (Flowksss)</h1>
 <h3 align="center">Sou um programador iniciante e criei esse repositório tanto para postar as atividades da Facul quanto para mostrar projetos que farei no futuro. Sinta-se a vontade para explorar os arquivos.</h3>
