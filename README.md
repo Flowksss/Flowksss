@@ -1,7 +1,7 @@
 <!--Banner do Flokinho-->
 ![Banner do perfil...](./bannernovo.png)
 
-![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowksss&layout=donut-vertical)](https://github.com/Flowksss/github-readme-stats)
+![Flowksss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowksss&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowksss&layout=donut-vertical)](https://github.com/Flowksss/github-readme-stats)
 
 
 <h1 align="center">Olá meu nome é Miguel (Flowksss)</h1>
