@@ -40,14 +40,15 @@ Sinta-se em casa: aqui tem desde tarefa da facul até projetos que tento contrib
 
 ---
 
-### 🐍 A cobrinha que entrega commits:
-![snake gif](https://github.com/Flowksss/Flowksss/blob/output/github-contribution-grid-snake.svg)
 
----
 
-### 🤙 Me encontra por aí (em breve...)
-> *Essa parte pode ter links pro teu LinkedIn, Instagram dev, ou portfólio. Me manda se quiser que eu já coloque aqui.*
+### 🤙 Minhas redes sociais:
 
----
-
-Curtiu? Posso customizar ainda mais: mudar o tema, colocar frases engraçadas em cada seção, adicionar GIFs ou integrar com seu Notion, por exemplo. Quer algo mais ousado ou diferente? Só mandar!
+<p align="left">
+  <a href="https://www.instagram.com/mfz_miguel/" target="_blank">
+    <img src="https://img.shields.io/badge/-@mfz_miguel-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-mombach-foza-21a636262/" target="_blank">
+    <img src="https://img.shields.io/badge/-Miguel%20no%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
